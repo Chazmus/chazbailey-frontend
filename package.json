@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"TODO: Make some tests\"",
     "build": "webpack -d",
     "serve": "webpack-dev-server",
     "start": "npm run build && node src/server/index.js"
